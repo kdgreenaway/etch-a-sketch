@@ -1,0 +1,15 @@
+#container {
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+div {
+    /* flex-basis: 5.88%; */
+    background-color: rgb(255, 112, 112);
+    margin: 0px;
+    min-width: 0;
+    
+    
+}
+
