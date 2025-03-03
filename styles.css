@@ -14,8 +14,8 @@ button {
 #container {
     display: flex;
     flex-wrap: wrap;
-    height: 50vh;
-    width: 50vh;
+    height: 60vh;
+    width: 60vh;
     /* margin: auto; */
     /* margin-top: 50px; */
 }
